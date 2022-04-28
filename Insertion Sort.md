@@ -1,5 +1,5 @@
 # Insertion Sort Projesi
-[Yasin Özkan](https://github.com/yasinzkn) Veri Yapıları ve Algoritmalar Ödevi-1
+[www.patika.dev](https://www.patika.dev) Veri Yapıları ve Algoritmalar Ödevi-1
 
 ***
 ## Soru 1
